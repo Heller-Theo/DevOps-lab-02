@@ -1,4 +1,4 @@
 # DevOps-lab-02
-Project for the lab number 03 of the DevOps course
+Project for the lab number 03 
 
 Luca and Theo project
